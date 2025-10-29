@@ -1,0 +1,17 @@
+---
+splash-potion.mechanics:
+  drag-multiplier.count: 0.0035
+  gravity.count: 0.07
+  max.potency: 1.0515
+ender-pearl.mechanics:
+  drag-multiplier.count: 0.0085
+  gravity.count: 0.065
+  knockback:
+    vertical: 0.4
+    horizontal: 0.4
+    height.limiter: 0
+fishing-hook.mechanics:
+  drag-multiplier.count: 4.0E-15
+  gravity.count: 0.12
+  max.distance: 25
+...

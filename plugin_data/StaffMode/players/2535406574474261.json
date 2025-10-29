@@ -1,0 +1,12 @@
+{
+    "name": "Anderson202160",
+    "address": "71.127.44.165",
+    "rollback": {
+        "position": "288.3255:-20.769:272.7607:sumod",
+        "inventory": [
+            "O:21:\"pocketmine\\item\\Stick\":12:{s:25:\"\u0000pocketmine\\item\\Item\u0000nbt\";O:30:\"pocketmine\\nbt\\tag\\CompoundTag\":2:{s:10:\"\u0000*\u0000cloning\";b:0;s:37:\"\u0000pocketmine\\nbt\\tag\\CompoundTag\u0000value\";a:0:{}}s:8:\"\u0000*\u0000count\";i:1;s:13:\"\u0000*\u0000customName\";s:0:\"\";s:7:\"\u0000*\u0000lore\";a:0:{}s:17:\"\u0000*\u0000blockEntityTag\";N;s:13:\"\u0000*\u0000canPlaceOn\";a:0:{}s:13:\"\u0000*\u0000canDestroy\";a:0:{}s:14:\"\u0000*\u0000keepOnDeath\";b:0;s:32:\"\u0000pocketmine\\item\\Item\u0000identifier\";O:30:\"pocketmine\\item\\ItemIdentifier\":1:{s:38:\"\u0000pocketmine\\item\\ItemIdentifier\u0000typeId\";i:20207;}s:7:\"\u0000*\u0000name\";s:5:\"Stick\";s:37:\"\u0000pocketmine\\item\\Item\u0000enchantmentTags\";a:0:{}s:15:\"\u0000*\u0000enchantments\";a:0:{}}"
+        ],
+        "armorInventory": [],
+        "cursorInventory": []
+    }
+}

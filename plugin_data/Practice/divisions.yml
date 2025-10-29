@@ -1,0 +1,21 @@
+  BronzeI:
+    rank-format: '&6BronzeI'
+    kills: 10
+  BronzeII:
+    rank-format: '&6BronzeII'
+    kills: 25
+  BronzeIII:
+    rank-format: '&6BronzeIII'
+    kills: 50
+  BronzeIV:
+    rank-format: '&6BronzeIV'
+    kills: 75
+  SilverI:
+    rank-format: '&6SilverI'
+    kills: 100
+  SilverII:
+    rank-format: '&6SilverII'
+    kills: 125
+  SilverIII:
+    rank-format: '&6SilverIII'
+    kills: 150

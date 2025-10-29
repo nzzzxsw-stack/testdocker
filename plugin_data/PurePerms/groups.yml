@@ -1,0 +1,31 @@
+---
+'&9Veizer&r':
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.permission
+  - nick.permission
+  worlds: []
+'&4Owner&r':
+  alias: '&4'
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+'&7User&r':
+  alias: ""
+  inheritance: []
+  permissions: []
+  worlds: []
+  isDefault: true
+'&bMod&r':
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.permission
+  - mod.cmd
+  - nick.permission
+  worlds: []
+...

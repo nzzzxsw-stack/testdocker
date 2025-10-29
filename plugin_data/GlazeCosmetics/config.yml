@@ -1,0 +1,8 @@
+---
+# Custom Item: You need Customies to use custom items!
+Custom-Item:
+     Enable: false # Should be enabled?
+     ItemName: "Cosmetics" # a.k.a display item name
+     ItemIdentifier: "glaze:cosmetics" # for /give command
+     ItemComponent: "cosmetics" # for item texture
+...

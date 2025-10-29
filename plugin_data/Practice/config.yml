@@ -1,0 +1,22 @@
+# Practice create by JuqnGOOD
+# Practice config version is 2.0.0
+
+# Division config.
+# Don't touch that if you don't have idea.
+division.default: 'BronzeI'
+
+# Webhook config
+# duel-log: string
+# arena-log: string
+webhooks:
+  duel-log: 'https://discord.com/api/webhooks/1147219881083818154/TJQmGEK5YNoMlWxTGXRRBxaGcwRwKdp3ilMMcgl5XeI8uIgQ63oPoBBFfXADNhll_VHf'
+  arena-log: 'https://discord.com/api/webhooks/1147219941297225738/x7dWnCHttwS4lZNatDE8GumNSj1aT7YIHzoMjIbzHKm2TkjHcVpnK8O3MMcuVvHKqZV9'
+
+# Auto Messages config
+# delay: seconds
+# content: array
+auto.messages:
+  delay: 200
+  content:
+    - '&9buy ranks, cosmetics and prefixes(soon) in &astore.veizer.club'
+    - '&r'

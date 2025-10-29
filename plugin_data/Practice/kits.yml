@@ -1,0 +1,1533 @@
+---
+builduhc-a:
+  armor:
+  - id: 310
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 311
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 312
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 313
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  inventory:
+  - id: 276
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 346
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 261
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 396
+    meta: 0
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 396
+    meta: 0
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 322
+    meta: 0
+    count: 3
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 322
+    meta: 0
+    count: 3
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 1
+    meta: 0
+    count: 64
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 5
+    meta: 0
+    count: 64
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 1
+    meta: 0
+    count: 64
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 5
+    meta: 0
+    count: 64
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 262
+    meta: 0
+    count: 32
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  knockback:
+    horizontal: 0.391
+    vertical: 0.4
+    attack-cooldown: 10
+    max-height: 0
+    can-revert: false
+midfight:
+  armor:
+  - id: 310
+    enchantments:
+      17: 10
+    unbreakable: true
+  - id: 311
+    enchantments:
+      17: 10
+    unbreakable: true
+  - id: 312
+    enchantments:
+      17: 10
+    unbreakable: true
+  - id: 313
+    enchantments:
+      17: 10
+    unbreakable: true
+  inventory:
+  - id: 276
+    enchantments:
+      17: 10
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  knockback:
+    horizontal: 0.391
+    vertical: 0.4
+    attack-cooldown: 10
+    max-height: 0
+    can-revert: false
+build:
+  armor:
+  - id: 306
+  - id: 315
+    enchantments:
+    - 2: 2
+  - id: 316
+    enchantments:
+    - 2: 2
+  - id: 309
+  inventory:
+    0:
+      id: 283
+      meta: 0
+      count: 1
+      unbreakable: true
+      custom-name: '&l&9Veizer'
+    1:
+      id: 368
+      meta: 0
+      count: 1
+      unbreakable: false
+      custom-name: '&l&9Veizer'
+    2:
+      id: 285
+      meta: 0
+      count: 1
+      unbreakable: true
+      custom-name: '&l&9Veizer'
+    3:
+      id: 30
+      meta: 0
+      count: 1
+      unbreakable: false
+      custom-name: '&l&9Veizer'
+    4:
+      id: 24
+      meta: 0
+      count: 64
+      unbreakable: false
+      custom-name: '&l&9Veizer'
+    5:
+      id: 322
+      meta: 0
+      count: 5
+      unbreakable: false
+      custom-name: '&l&9Veizer'
+    8:
+      id: 24
+      meta: 0
+      count: 64
+      unbreakable: false
+      custom-name: '&l&9Veizer'
+  knockback:
+    horizontal: 0.391
+    vertical: 0.4
+    attack-cooldown: 10
+    max-height: 0
+    can-revert: false
+sumo_arena:
+  inventory:
+  - id: 280
+    meta: 0
+    count: 1
+  effects:
+    11:
+      amplifier: 255
+  knockback:
+    horizontal: 0.391
+    vertical: 0.4
+    attack-cooldown: 10
+    max-height: 0
+    can-revert: false
+sumo:
+  inventory:
+  - id: 280
+    meta: 0
+    count: 1
+  effects:
+    11:
+      amplifier: 255
+  knockback:
+    horizontal: 0.391
+    vertical: 0.4
+    attack-cooldown: 10
+    max-height: 0
+    can-revert: false
+finaluhc:
+  armor:
+  - id: 310
+  - id: 311
+    enchantments:
+    - 2: 2
+  - id: 312
+    enchantments:
+    - 2: 2
+  - id: 313
+  inventory:
+  - id: 276
+    meta: 0
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 346
+    meta: 0
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 261
+    meta: 0
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 364
+    meta: 0
+    count: 64
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 322
+    meta: 0
+    count: 6
+    unbreakable: false
+  - id: 278
+    meta: 0
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 279
+    meta: 0
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 5
+    meta: 0
+    count: 64
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 262
+    meta: 0
+    count: 64
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 4
+    meta: 0
+    count: 64
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 325
+    meta: 0
+    count: 8
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 325
+    meta: 0
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 325
+    meta: 10
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 325
+    meta: 10
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  knockback:
+    horizontal: 0.391
+    vertical: 0.4
+    attack-cooldown: 10
+    max-height: 0
+    can-revert: false
+builduhc:
+  armor:
+  - id: 310
+    enchantments:
+    - 2: 2
+  - id: 311
+    enchantments:
+    - 2: 2
+  - id: 312
+    enchantments:
+    - 2: 2
+  - id: 313
+    enchantments:
+    - 2: 2
+  inventory:
+  - id: 276
+    enchantments:
+    - 10: 2
+    meta: 0
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 346
+    meta: 0
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 261
+    meta: 0
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 364
+    meta: 0
+    count: 64
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 322
+    meta: 0
+    count: 6
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 278
+    meta: 0
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 279
+    meta: 0
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 5
+    meta: 0
+    count: 64
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 262
+    meta: 0
+    count: 64
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 4
+    meta: 0
+    count: 64
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 325
+    meta: 0
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 325
+    meta: 0
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 325
+    meta: 10
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  - id: 325
+    meta: 10
+    count: 1
+    unbreakable: false
+    custom-name: '&l&9Veizer'
+  knockback:
+    horizontal: 0.391
+    vertical: 0.4
+    attack-cooldown: 10
+    max-height: 0
+    can-revert: false
+boxing:
+  inventory:
+  - id: 276
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  knockback:
+    horizontal: 0.391
+    vertical: 0.4
+    attack-cooldown: 10
+    max-height: 0
+    can-revert: false
+  effects:
+    1:
+      amplifier: 0
+    11:
+      amplifier: 255
+nodebuff:
+  armor:
+  - id: 310
+    enchantments:
+      17: 10
+    unbreakable: true
+  - id: 311
+    enchantments:
+      17: 10
+    unbreakable: true
+  - id: 312
+    enchantments:
+      17: 10
+    unbreakable: true
+  - id: 313
+    enchantments:
+      17: 10
+    meta: 0
+    unbreakable: true
+  inventory:
+  - id: 276
+    enchantments:
+      17: 10
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 368
+    meta: 0
+    count: 16
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  effects:
+    1:
+      amplifier: 0
+  knockback:
+    horizontal: 0.39
+    vertical: 0.4
+    attack-cooldown: 10
+    max-height: 0
+    can-revert: true
+hct:
+  knockback:
+    horizontal: 0.4025
+    vertical: 0.4025
+    attack-cooldown: 10
+    max-height: 100
+    can-revert: false
+  armor: []
+  inventory: []
+  effects: []
+rogue:
+  armor:
+  - id: 310
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 311
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 312
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 313
+    enchantments:
+    - 2: 2
+    meta: 0
+    unbreakable: true
+  inventory:
+  - id: 276
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 368
+    meta: 0
+    count: 16
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 283
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 283
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 283
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  effects:
+    1:
+      amplifier: 2
+  knockback:
+    horizontal: 0.391
+    vertical: 0.4
+    attack-cooldown: 10
+    max-height: 0
+    can-revert: false
+diamond:
+  armor:
+  - id: 310
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 311
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 312
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 313
+    enchantments:
+    - 2: 2
+    meta: 0
+    unbreakable: true
+  inventory:
+  - id: 276
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 368
+    meta: 0
+    count: 16
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  effects:
+    1:
+      amplifier: 0
+    16:
+      amplifier: 0
+  knockback:
+    horizontal: 0.391
+    vertical: 0.4
+    attack-cooldown: 10
+    max-height: 0
+    can-revert: false
+archer:
+  armor:
+  - id: 298
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 299
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 300
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 301
+    enchantments:
+    - 2: 2
+    meta: 0
+    unbreakable: true
+  inventory:
+  - id: 276
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 368
+    meta: 0
+    count: 16
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 261
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 288
+    meta: 0
+    count: 32
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 353
+    meta: 0
+    count: 32
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 262
+    meta: 0
+    count: 64
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  effects:
+    1:
+      amplifier: 2
+    10:
+      amplifier: 1
+    11:
+      amplifier: 1
+    16:
+      amplifier: 0
+  knockback:
+    horizontal: 0.391
+    vertical: 0.4
+    attack-cooldown: 10
+    max-height: 0
+    can-revert: false
+bard:
+  armor:
+  - id: 314
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 315
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 316
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 317
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  inventory:
+  - id: 276
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 368
+    meta: 0
+    count: 16
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 377
+    meta: 0
+    count: 16
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 265
+    meta: 0
+    count: 16
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 370
+    meta: 0
+    count: 16
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 438
+    meta: 22
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  effects:
+    1:
+      amplifier: 1
+    10:
+      amplifier: 1
+    11:
+      amplifier: 1
+    16:
+      amplifier: 0
+  knockback:
+    horizontal: 0.391
+    vertical: 0.4
+    attack-cooldown: 10
+    max-height: 0
+    can-revert: false
+bridge:
+  armor:
+  - id: 298
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 299
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 300
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  - id: 301
+    enchantments:
+    - 2: 2
+    unbreakable: true
+  inventory:
+  - id: 267
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 278
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 261
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 235
+    meta: 0
+    count: 64
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 235
+    meta: 0
+    count: 64
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 322
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  - id: 262
+    meta: 0
+    count: 1
+    unbreakable: true
+    custom-name: '&l&9Veizer'
+  knockback:
+    horizontal: 0.391
+    vertical: 0.4
+    attack-cooldown: 10
+    max-height: 0
+    can-revert: false
+...

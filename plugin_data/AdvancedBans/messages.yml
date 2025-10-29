@@ -1,0 +1,38 @@
+# MESSAGES
+
+PLAYER_TEMPORARILY_BANNED: "§9Veizer §r§7» §b{user} §6has been §cBANNED §6from the server for §c{time} §6by §c{bannedBy} §6for §c{reason}"
+PLAYER_TEMPORARILY_MUTED: "§9Veizer §r§7» §b{user} §6has been §cMUTED §6from the server for §c{time} §6by §c{mutedBy} §6for §c{reason}"
+
+PLAYER_PERMANENTLY_BANNED: "§9Veizer §r§7» §b{user} §6has been §cBANNED §6from the server by §c{bannedBy} §6for §c{reason}"
+PLAYER_PERMANENTLY_MUTED: "§9Veizer §r§7» §b{user} §6has been §cMUTED §6from the server by §c{mutedBy} §6for §c{reason}"
+PLAYER_KICKED: "§9Veizer §r§7» §b{user} §6has been §cKICKED §6from the server by §c{kickedBy} §6for §c{reason}"
+# STAFF MESSAGES
+PLAYER_TRIED_JOIN_BANNED: "§9Veizer §r§7» §b{user} §6tried to join but is §cBANNED §r§7(§c{reason}§7)"
+PLAYER_TRIED_SPEAK_MUTED: "§9Veizer §r§7» §b{user} §6tried to speak but is §cMUTED §r§7(§c{reason}§7)"
+# PLAYER MESSAGE
+PLAYER_KICK_TEMPORARILY_BANNED: "§r§b §6You are currently §cBANNED §r§c\n§r§a- §6Staff§r§7: §b{bannedBy}\n§r§a- §6Reason§r§7: §b{reason}\n§r§a- §6Expires§r§7: §b{time}"
+PLAYER_KICK_PERMANENTLY_BANNED: "§r§b §6You are currently §cPERMANTLY BANNED §r§c\n§r§a- §6Staff§r§7: §b{bannedBy}\n§r§a- §6Reason§r§7: §b{reason}\n§r§cAPPEAL AT §bhttps://discord.gg/mcFWRgHQde"
+
+PLAYER_MESSAGE_TEMPORARILY_MUTED: "&cYou are currently muted by &e{mutedBy} &cfor &e{reason} &cMuted on: &e{date} ({time})"
+PLAYER_MESSAGE_PERMANENTLY_MUTED: "&cYou are currently muted by &e{mutedBy} &cfor &e{reason} &cMuted on: &e{date}"
+# MESSAGES
+PLAYER_WARN: "&e{user} &cwas warned for &e{reason} &cby: &e{warnBy}"
+PLAYER_KICK: "&cYou have been kicked from the server\nKicked by: &e{kickedBy}\n&cReason: &e{reason}"
+
+PLAYER_UNBANNED: "&e{user} &cwas unbanned by &e{unbannedBy}"
+PLAYER_UNMUTED: "&e{user} &cwas unmuted by &e{unmutedBy}"
+PLAYER_CLEARWARN: "&e{user} &cremove warns by &e{clearwarnBy}"
+
+PLAYER_ATTEND_REPORT: "&e{user} &6attended the report with the id &e{id}"
+PLAYER_DELETE_REPORT: "&e{user} &cdelete the report with the id &e{id}"
+
+PLAYER_MESSAGE_COOLDOWN_CHAT: "&cwait {time} seconds until you can send a message again!"
+
+STAFFCHAT_MESSAGE: "&9[StaffChat] &7{staff}: &b{message}"
+REPORT_SUCCESSFULLY: "&aYour report for {user} was sent to the staff!"
+NEW_REPORT_RECEIVED: "&c[Report] &b{reported} &awas reported by &b{player} &afor &b{reason}"
+
+DISCORD_REPORT_TITLE: "Hey @here New report received!"
+DISCORD_REPORT_CONTENT: "A new report has been sent!"
+
+CONSOLE_PREFIX: "&d[S] "

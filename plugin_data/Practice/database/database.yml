@@ -1,0 +1,12 @@
+# Database config
+type: mysql
+
+sqlite:
+  file: queries.sqlite
+mysql:
+  host: localhost
+  username: root
+  password: root
+  schema: practice_db
+  
+worker-limit: 2

@@ -1,0 +1,12 @@
+prefix=/home/runner/work/php-build-scripts/php-build-scripts/bin/php7
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+Name: librdkafka++
+Description: The Apache Kafka C/C++ library
+Version: 2.1.1
+Requires.private: rdkafka
+Cflags: -I${includedir}
+Libs: -L${libdir} -lrdkafka++
+Libs.private: -lrdkafka

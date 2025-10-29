@@ -1,0 +1,29 @@
+# BanComponents settings
+
+# Date on which the sanctions will be recorded
+date-format: "d/m/Y"
+
+# Chat cooldown time (in seconds)
+chat-cooldown-time: 3
+
+# Maximum number of warns a player can have
+max-warns-player: 3
+
+# Send notifications to the console? true = yes false = no
+notify-console: true
+
+# Send notification if a banned player tried to enter? true = yes false = no
+notify-tried-join: true
+
+# Send notification if a muted player tried to speak? true = yes false = no
+notify-tried-speak: true
+
+# Discord Wedhook enabled? true = yes false = no
+discord-webhook: false
+# Discord Webhook to log the bans 
+discord.logs: ""
+# Discord Webhook (Send reports generated on the server)
+webhook-url: ""
+
+# Discord Avatar
+discord-avatar: ""

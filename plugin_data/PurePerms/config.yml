@@ -1,0 +1,16 @@
+---
+data-provider: mysql
+default-language: en
+disable-op: true
+enable-multiworld-perms: false
+enable-noeul-sixtyfour: false
+mysql-settings:
+  host: 78.46.164.171
+  port: 3306
+  user: db_410597
+  password: 2QffJa99Omh8wwbN25wV
+  db: db_410597
+noeul-minimum-pw-length: 6
+superadmin-ranks:
+- OP
+...

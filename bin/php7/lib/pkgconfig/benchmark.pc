@@ -1,0 +1,12 @@
+prefix=/home/runner/work/php-build-scripts/php-build-scripts/bin/php7
+exec_prefix=${prefix}
+libdir=/home/runner/work/php-build-scripts/php-build-scripts/bin/php7/lib
+includedir=/home/runner/work/php-build-scripts/php-build-scripts/bin/php7/include
+
+Name: benchmark
+Description: Google microbenchmark framework
+Version: 1.7.1
+
+Libs: -L${libdir} -lbenchmark
+Libs.private: -lpthread
+Cflags: -I${includedir}

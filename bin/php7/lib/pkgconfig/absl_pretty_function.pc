@@ -1,0 +1,12 @@
+prefix=/home/runner/work/php-build-scripts/php-build-scripts/bin/php7
+exec_prefix=${prefix}
+libdir=/home/runner/work/php-build-scripts/php-build-scripts/bin/php7/lib
+includedir=/home/runner/work/php-build-scripts/php-build-scripts/bin/php7/include
+
+Name: absl_pretty_function
+Description: Abseil pretty_function library
+URL: https://abseil.io/
+Version: 20230802
+Requires:
+Libs: -L${libdir}  
+Cflags: -I${includedir} -DNOMINMAX

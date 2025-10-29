@@ -1,0 +1,21 @@
+## Leak by PocketDevs - HISPANIC
+## Discord: https://dsc.gg/pocketdevs
+
+
+# Webhook logs
+
+logs: "https://discord.com/api/webhooks/"
+
+# Messages for commands.
+
+permanently-ban-kick-now: "&e{staff}&7 has permanently banned &e{banned}&7 for &l{reason}&r&7."
+permanently-ban-ip-kick-now: "&e{staff}&7 has permanently ip-banned &e{banned}&7 for &l{reason}&r&7."
+unban-ip-message-now: "&e{staff}&7 has ip-unbanned &e{unbanned}&7."
+unban-message-now: "&e{staff}&7 has unbanned &e{unbanned}&7."
+temporarily-mute-now: "&e{staff}&7 has temporarily muted &e{player}&7 for &l{reason}&r&7 during {date}."
+temporarily-unmute-now: "&e{staff}&7 has unmuted &e{unmuted}&7."
+kick-message-now: "&e{staff}&7 has kicked &e{player}&7 for &l{reason}&r&7."
+permanently-ban-kick: "&c&lYOU HAVE BEEN BANNED.\n\n&r&cStaff&7: &e{staff}\n&r&cReason&7:&e {reason}\n&r&cTime&7: &ePermanent.\n&r&cDate&7:&e {date}\n\n&r&8Appeal at discord.gg/heramcpe"
+permanently-ban-ip-kick: "&c&lYOU HAVE BEEN IP-BANNED.\n\n&r&cStaff&7: &e{staff}\n&r&cReason&7:&e {reason}\n&r&cTime&7: &ePermanent.\n&r&cDate&7:&e {date}\n\n&r&8Appeal at discord.gg/heramcpe"
+temporarily-mute: "&cYou have been muted for &l{reason}&r&c."
+kick-message: "&c&lYOU HAVE BEEN KICKED.\n\n&r&cStaff&7: &e{staff}\n&r&cReason&7:&e {reason}"

@@ -1,0 +1,12 @@
+prefix=/home/runner/work/php-build-scripts/php-build-scripts/bin/php7
+exec_prefix=${prefix}
+libdir=/home/runner/work/php-build-scripts/php-build-scripts/bin/php7/lib
+includedir=/home/runner/work/php-build-scripts/php-build-scripts/bin/php7/include
+
+Name: absl_crc_cpu_detect
+Description: Abseil crc_cpu_detect library
+URL: https://abseil.io/
+Version: 20230802
+Requires: absl_base = 20230802, absl_config = 20230802
+Libs: -L${libdir}  -labsl_crc_cpu_detect 
+Cflags: -I${includedir} -DNOMINMAX

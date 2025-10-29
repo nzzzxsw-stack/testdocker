@@ -1,0 +1,151 @@
+---
+Guest:
+  nametag:
+    prefix: ""
+    nameColor: §7
+  chat:
+    prefix: ""
+    nameColor: §7
+    chatFormat: '§7: '
+  permissions:
+  - lis.command
+  inheritance: []
+Admin:
+  nametag:
+    prefix: '§9[§bAdmin§9]§r '
+    nameColor: §a
+  chat:
+    prefix: '§9[§bAdmin§9]§r '
+    nameColor: §a
+    chatFormat: '§5: §6'
+  permissions:
+  - pocketmine.broadcast
+  - pocketmine.command.gamemode
+  - pocketmine.command.give
+  - pocketmine.command.kick
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  inheritance:
+  - Guest
+Owner:
+  nametag:
+    prefix: ""
+    nameColor: §m
+  chat:
+    prefix: '§7[§mOwner§7] '
+    nameColor: §m
+    chatFormat: '§r: '
+  permissions:
+  - fly.permission
+  - nick.permission
+  - mod.cmd
+  - pocketmine.command.gamemode
+  - pocketmine.command.teleport
+  - tps.permission
+  inheritance:
+  - Admin
+VIP:
+  nametag:
+    prefix: ""
+    nameColor: §a
+  chat:
+    prefix: '§7[§aVIP§7] '
+    nameColor: §a
+    chatFormat: '§r: '
+  permissions:
+  - fly.permission
+  - nick.permission
+  inheritance:
+  - Admin
+Beta:
+  nametag:
+    prefix: ""
+    nameColor: §3
+  chat:
+    prefix: '§7[§3Beta Tester§7] '
+    nameColor: §3
+    chatFormat: '§r: '
+  permissions:
+  - fly.permission
+  - nick.permission
+  inheritance:
+  - Admin
+Dev?:
+  nametag:
+    prefix: ""
+    nameColor: §3
+  chat:
+    prefix: '§7[§3Developer?§7] '
+    nameColor: §3
+    chatFormat: '§r: '
+  permissions:
+  - fly.permission
+  - nick.permission
+  inheritance:
+  - Admin
+Trainee:
+  nametag:
+    prefix: ""
+    nameColor: §6
+  chat:
+    prefix: '§7[§6Trainee§7] '
+    nameColor: §6
+    chatFormat: '§r: '
+  permissions:
+  - fly.permission
+  - nick.permission
+  - mod.cmd
+  - bancomponents.command.ban
+  - bancomponents.command.tban
+  - bancomponents.command.banip
+  - bancomponents.command.mute
+  - bancomponents.command.tmute
+  - bancomponents.command.kick
+  inheritance:
+  - Admin
+Media:
+  nametag:
+    prefix: ""
+    nameColor: §5
+  chat:
+    prefix: '§7[§5Media§7] '
+    nameColor: §5
+    chatFormat: '§r: '
+  permissions:
+  - fly.permission
+  - nick.permission
+  inheritance:
+  - Admin
+Jeffer touch de mierda:
+  nametag:
+    prefix: '§8[§7Jeffer touch de mierda§8] '
+    nameColor: §f
+  chat:
+    prefix: '§8[§7Jeffer touch de mierda§8] '
+    nameColor: §f
+    chatFormat: '§e: §7'
+  permissions: []
+  inheritance: []
+God-tag:
+  nametag:
+    prefix: ""
+    nameColor: ""
+  chat:
+    prefix: "§7[§6God§7] "
+    nameColor: ''
+    chatFormat: '§r: '
+  permissions: []
+  inheritance: []
+Booster:
+  nametag:
+    prefix: ""
+    nameColor: §d
+  chat:
+    prefix: '§7[§dBooster§7] '
+    nameColor: §d
+    chatFormat: '§r: '
+  permissions:
+  - ""
+  inheritance:
+  - Admin
+...
